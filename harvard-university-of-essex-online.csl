@@ -24,6 +24,7 @@
       </term>
       <term name="editortranslator" form="verb">edited and translated by</term>
       <term name="edition" form="short">edn.</term>
+      <term name="no date">N.D.</term>
     </terms>
   </locale>
   <macro name="editor">
